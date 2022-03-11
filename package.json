@@ -1,6 +1,17 @@
 {
   "name": "minecraft-archive",
   "version": "0.0.0",
+  "author": {
+    "email": "admin@hbcraft.cn",
+    "name": "Hua_Bing",
+    "url": "https://github.com/hbcraft"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
